@@ -1,6 +1,4 @@
 import './App.css';
-import Row from '../src/components/Row/Row';
-import requests from '../src/util/requests';
 import {useEffect} from 'react';
 import HomeScreen from '../src/components/HomeScreen/HomeScreen'
 import {

@@ -1,8 +1,6 @@
 import axios from '../../util/axios';
 import React,{useState,useEffect} from 'react'
 import './row.css'
-import Youtube from 'react-youtube'
-import movieTrailer from 'movie-trailer'
 
 
 const Row = ({title, fetchUrl, isLargeRow = false}) => {

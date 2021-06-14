@@ -1,5 +1,4 @@
 import React, { useEffect ,useState} from 'react'
-import netflixLogo from '../../netflix-logo.png'
 import { useHistory } from 'react-router';
 import './Navbar.css'
 
